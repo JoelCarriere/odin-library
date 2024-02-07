@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Library</title>
+    <link rel="stylesheet" href="./css/style.css">
+    <script type="text/javascript" src="./js/main.js" defer></script>
+</head>
+<body>
+    <div class="container">
+        <div class="left-side">
+            <div class="logo-area">
+                <img class="logo" src="./img/site-logo-black.svg" alt="jc-site-logo">
+                <p class="logo-text"> WEB DEV</p>
+            </div>
+            <p class="left-footer">Photo by <a href="https://unsplash.com/@henry_be?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Henry Be</a> on <a href="https://unsplash.com/photos/library-shelf-near-black-wooden-ladder-lc7xcWebECc?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a>
+            </p>
+        </div>
+        <div class="right-side">
+            <p class="site-info">
+                This is not a real online service! It is created to
+                function as a book library with capability to add,
+                store, and display books in a library.
+                Sign up now to get started.
+                <br>
+                You know you want to.
+            </p>
+
+
+            <dialog>
+                <form id="intake-form" class="intake-form" action="" method="get">
+                    <legend><strong>Enter new book info!</strong></legend>
+                    <div class="inputs">
+                        <div class="form-left">
+                            <p>
+                                <label for="title">Title</label>
+                                <input type="text" name="title" id="title" placeholder="Green eggs and ham" required>
+                            </p>
+                            <p>
+                                <label for="author">Author</label>
+                                    <input type="text" name="author" id="author" placeholder="John Doe" required>
+                            </p>
+                            <p>
+                                <label for="pages">Pages</label>
+                                    <input type="number" name="pages" id="pages" placeholder=0 required>
+                            </p>
+                        </div>
+                        <div class="form-right">
+
+                            <p>
+                                <fieldset class="checkIfRead"><legend>Has the book been read?</legend>
+                                    <label for="read">Read<input type="radio" name="isRead" id="read" value="read" required></label>
+                                    <label for="notRead">Not Read<input type="radio" name="isRead" id="notRead" value="not read" required></label>
+                                    <label for="reading">Reading<input type="radio" name="isRead" id="reading" value="currently reading" required></label>
+                                </fieldset>
+                            </p>
+                        </div>
+                    </div>
+                    <button type="submit" class="newSubmit">Submit</button>
+                </form>
+                <button autofocus class="closeButton">Close</button>
+            </dialog>
+            <button class="newButton">New Book</button>
+
+            <div class="library-contents">
+                <h2>Your books</h2>
+                <div class="storedBooks">
+
+                </div>
+            </div>
+        </div>
+    </div>
+</body>
+</html>

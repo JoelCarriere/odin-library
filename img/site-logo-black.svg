@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="1100.0176"
+   height="1126.9336"
+   viewBox="0 0 291.04631 298.16784"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.3 (0e150ed6c4, 2023-07-21)"
+   sodipodi:docname="logo-black.svg"
+   inkscape:export-filename="site-logo-white.svg"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#ffffff"
+     borderopacity="0.24705882"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     inkscape:zoom="1.0218084"
+     inkscape:cx="566.64244"
+     inkscape:cy="567.13176"
+     inkscape:window-width="2560"
+     inkscape:window-height="1361"
+     inkscape:window-x="1341"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs1" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(20.99585,34.737173)">
+    <path
+       id="path2"
+       style="fill:#000000;fill-opacity:1;stroke-width:0.25"
+       d="M 144.0039,-34.737173 V 5.5539075 a 110,110 0 0 1 82.91328,58.9498905 h 43.13329 A 150,150 0 0 0 144.0039,-34.737173 Z m -29.99972,0.313676 a 150,150 0 0 0 -40.000144,9.882084 V 19.683278 A 110,110 0 0 1 114.00418,5.5761284 Z M -20.99585,114.50385 A 150,150 0 0 0 114.00418,263.43067 V 223.43105 A 110,110 0 0 1 19.004292,114.50385 Z m 247.90218,50.00005 a 110,110 0 0 1 -82.90243,58.92715 v 39.99962 A 150,150 0 0 0 269.93781,164.5039 Z" />
+    <rect
+       style="fill:#000000;fill-opacity:1;stroke-width:0.236882"
+       id="rect4-8"
+       width="40"
+       height="250"
+       x="144.00415"
+       y="-10.4963" />
+    <rect
+       style="fill:#000000;fill-opacity:1;stroke-width:0.236882"
+       id="rect4-8-5"
+       width="40"
+       height="250"
+       x="74.00415"
+       y="-10.4963"
+       inkscape:label="rect4-8-5" />
+  </g>
+</svg>
